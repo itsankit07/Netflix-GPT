@@ -2,8 +2,13 @@
 
 - create react app
 - install talwind css
--header
+- header
+- routing
 - login form
+
+- form validation
+- useRef hook 
+     
 
 
 #Features
